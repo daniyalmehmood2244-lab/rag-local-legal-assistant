@@ -171,7 +171,7 @@ ollama serve
 Then run Streamlit:
 
 ```bash
-streamlit run app.py
+streamlit run app4.py
 ```
 
 ---
@@ -183,7 +183,7 @@ This allows multiple PCs to access your AI Legal Assistant.
 On HOST machine:
 
 ```bash
-streamlit run app.py --server.address 0.0.0.0 --server.port 8501
+streamlit run app4.py --server.address 0.0.0.0 --server.port 8501
 ```
 
 Find your local IP:
@@ -219,17 +219,6 @@ http://192.168.1.10:8501
 9. Logs are saved in SQLite
 
 This ensures answers are accurate and grounded in uploaded legal content.
-
----
-
-## 📜 License
-
-Add your license here (MIT recommended).
-Example:
-
-```
-MIT License © 2025 Daniyal Mehmood
-```
 
 ---
 
