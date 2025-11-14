@@ -1,24 +1,22 @@
-# Python cache & environments
+# Byte-compiled / cache
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
-*.pyd
+
+# Virtual envs
 env/
 venv/
 .local/
 
-# Streamlit / App generated folders
+# Data folders
 uploaded_files/
 vectorstores/
 app_data.db
 *.pkl
 *.faiss
-*.sqlite
 
-# OS files
+# OS / IDE
 .DS_Store
 Thumbs.db
-
-# IDE files
 .vscode/
 .idea/
