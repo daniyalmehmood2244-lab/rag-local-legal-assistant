@@ -116,16 +116,16 @@ You can add/update/remove users in the Admin Panel.
 
 ### 🔹 Login Screen
 
-![Login Screen](docs/screenshots/logininterface_UI.JPG)
+![Login Screen](docs/screenshots/logininterface_UI.jpg)
 
 ### 🔹 Admin Panel
 
-![Admin Panel](docs/screenshots/admin1_UI.JPG)
-![Admin Panel](docs/screenshots/admin2_UI.JPG)
+![Admin Panel](docs/screenshots/admin1_UI.jpg)
+![Admin Panel](docs/screenshots/admin2_UI.jpg)
 
 ### 🔹 Client Chat Interface
 
-![Client Chat](docs/screenshots/client_UI.JPG)
+![Client Chat](docs/screenshots/client_UI.jpg)
 
 ---
 
