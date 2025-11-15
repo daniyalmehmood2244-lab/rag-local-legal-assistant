@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+venv/
+env/
+local_ai/
+
+# Streamlit
+.streamlit/
+
+# Uploaded files & vector index
+uploaded_files/
+vectorstores/
+
+# SQLite DB
+app_data.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
