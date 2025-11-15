@@ -226,7 +226,7 @@ This ensures answers are accurate and grounded in uploaded legal content.
 
 If you need help or want to collaborate:
 
-**Email:** [daniyalmehmood2244@gmail.com](mailto:daniyalmehmood2244@gmail.com) (replace if necessary)
+**Email:** [daniyalmehmood2244@gmail.com](mailto:daniyalmehmood2244@gmail.com) 
 **GitHub:** [https://github.com/daniyalmehmood2244-lab](https://github.com/daniyalmehmood2244-lab)
 
 ---
