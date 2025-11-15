@@ -1,24 +1,63 @@
-# Python cache & environments
+# --- Python ---
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.pdb
+*.log
+
+# --- Virtual environments ---
 env/
 venv/
-.local/
+.venv/
+ENV/
+.ENV/
 
-# Streamlit / App generated folders
+# --- Streamlit ---
+.streamlit/
+
+# --- Uploaded files (legal PDFs) ---
 uploaded_files/
-vectorstores/
-app_data.db
-*.pkl
-*.faiss
-*.sqlite
+uploaded_files/*
 
-# OS files
+# --- FAISS vectorstores ---
+vectorstores/
+vectorstores/*
+
+# --- SQLite database (credentials + logs) ---
+app_data.db
+*.db
+
+# --- Ollama (models + cache, do NOT push to GitHub) ---
+ollama/
+ollama/*
+
+# --- OS / editor files ---
 .DS_Store
 Thumbs.db
+*.swp
+*.swo
 
-# IDE files
-.vscode/
-.idea/
+# --- Jupyter artifacts (if any) ---
+.ipynb_checkpoints/
+
+# --- Environment files ---
+*.env
+.env*
+
+# --- Build files ---
+dist/
+build/
+
+# --- Reports, LaTeX outputs, docs ---
+*.pdf
+*.aux
+*.toc
+*.log
+*.out
+*.gz
+*.blg
+*.bbl
+
+docs/screenshots/*.jpg
+docs/screenshots/*.png
